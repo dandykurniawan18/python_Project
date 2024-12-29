@@ -151,6 +151,6 @@ This Netflix data analysis reveals significant trends, such as the dominance of 
 
 ## 👤 Author
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaun-mia)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaun-mia/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaunmia.cse@gmail.com)
+[![GitHub](https://github.com/dandykurniawan18/python_Project)]
+[![LinkedIn](http://www.linkedin.com/in/dandi-kurniawan)]
+[![Email](dandykurniawan180@gmail.com)]
